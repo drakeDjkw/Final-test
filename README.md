@@ -13,6 +13,22 @@ This document provides an overview of common Git operations and best practices f
 5. Merging branches back into `main`
 6. Pushing changes to a remote repository on GitHub with descriptive commit messages
 
+### Weather Fetching Script
+
+This Python script fetches the current weather for a specified city using the OpenWeatherMap API.
+
+## Requirements
+
+- Python 3.x
+- `requests` library
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/drakeDjkw/Final-test.git
+   cd your-repo-name
+
 ## Best Practices
 
 - Use meaningful commit messages for clear project history
